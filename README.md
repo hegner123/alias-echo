@@ -1,2 +1,7 @@
 # alias-echo
-python script to parse .zsh file and create a file listing all alias's and expanded commands.
+Python program that echos the aliases of a .zshrc file.
+
+## Requirements
+python3: https://www.python.org/downloads/[https://www.python.org/downloads/]
+## Usage
+
