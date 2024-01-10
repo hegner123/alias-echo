@@ -2,7 +2,7 @@
 import sys
 
 def addAlias(file, alias, command):
-    newAlias = "alias " + alias + "=" + "\"" + command+ "\""
+    newAlias = "\nalias " + alias + "=" + "\"" + command+ "\""
     file.write(newAlias)
     file.close()
 
