@@ -2,7 +2,7 @@
 Python program that echos the aliases of a .zshrc file. Using add or remove arguments will add or remove aliases from the .zshrc file.
 
 ## Requirements
-python3: Download [https://www.python.org/downloads/]
+python3: [Download](https://www.python.org/downloads/)
 
 ## Usage
 Copy the contents of the main.py file into a file somewhere reliable on your computer.
